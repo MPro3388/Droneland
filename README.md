@@ -8,5 +8,8 @@ Folgende Punkte werden hier dabei behandelt:
     Voraussetzungen zum Fernpiloten
     Praktische Übungsmöglichkeiten für Flugmanövern
     Umgang mit Drohnen nach CE-Klassifizierung
+    API mit Flynex für Geozonenkarte
+    Auswahl fertiggestellte Dronen oder Modifizierung
+    eigener Dronen
 
 Dieses WT-Projekt wird geführt von Marko Prodanovic
